@@ -1,4 +1,6 @@
+#Jekyll configuration
 markdown: kramdown
+
 Hello World!
 ====================
 
